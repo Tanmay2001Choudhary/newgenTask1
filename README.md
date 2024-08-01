@@ -20,10 +20,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 2. Build and Run the Application
 
-## Postman API Collection
-
-### Overview
-This section provides details on the RESTful API endpoints available in this project for managing students and courses. Each API endpoint is documented with its URL, HTTP method, description, and example requests and responses.
+## Postman API Setup
 
 ### Students API
 
